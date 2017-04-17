@@ -1,2 +1,2 @@
 # learnpython
-这是一个用于学习python的项目。
+这是一个用于学习python/matplotlib/numpy的项目。
