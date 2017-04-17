@@ -3,6 +3,8 @@ age = int(age)
 if age >= 18:
     print('Your age is',age )
     print('adult') 
-else:
+elif age>=6:
     print('Your age is',age )
     print('teenage')
+else:
+    print('Kid')
